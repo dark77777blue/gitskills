@@ -1,2 +1,2 @@
 # gitskills
-## git练习项目
+git练习项目
